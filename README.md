@@ -6,7 +6,9 @@ A passionate Batch/Python developer from Serbia
 
 🌱 I’m currently learning Batch, Python
 
-Connect with me: https://discord.gg/nightliight
+Connect with me: 
+discord : h5e
 
 Languages and Tools:
 python
+c+
